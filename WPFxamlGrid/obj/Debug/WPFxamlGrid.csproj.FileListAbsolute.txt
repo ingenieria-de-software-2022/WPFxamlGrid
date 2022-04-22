@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\bin\Debug\WPFxamlGrid.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\bin\Debug\WPFxamlGrid.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\bin\Debug\WPFxamlGrid.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlGrid\WPFxamlGrid\obj\Debug\WPFxamlGrid.pdb
